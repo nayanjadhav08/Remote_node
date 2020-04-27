@@ -1,2 +1,2 @@
 # Remote_node
-Arduino Based Remote node code.
+Arduino Based Remote Air polution detection node code.
