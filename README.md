@@ -1,2 +1,2 @@
 # Remote_node
-Arduino Based Remote Air polution detection node code.
+Arduino Based Remote  Air polution detection IOT device node code.
